@@ -1,7 +1,9 @@
-List of Fruits:
+List of Fruits-
 Mango
 Cucumber
 Cashew
 Watermelon
-Pawpaw
+Strawberry
+Grapes
+Oranges
 
