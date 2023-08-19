@@ -1,8 +1,8 @@
-List of Fruits-
-Mango
-Cucumber
-Cashew
-Watermelon
+List of Fruits:
+Mangoes
+Cucumbers
+Cashews
+Watermelons
 Strawberry
 Grapes
 Oranges
